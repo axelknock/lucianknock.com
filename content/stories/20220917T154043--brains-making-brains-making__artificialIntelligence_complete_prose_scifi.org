@@ -1,4 +1,5 @@
 #+title:      BRAINS MAKING BRAINS MAKING
+#+slug: brains-making-brains-making
 #+filetags:   :artificialIntelligence:complete:prose:scifi:
 #+author: Lucian Axel Knock
 #+favicon: 🧠

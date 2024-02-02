@@ -1,11 +1,12 @@
 #+title:      AaIaAaE (Acronyms and Initialisms and Abbreviations are Evil)
+#+slug: acronyms-and-initialisms-and-abbreviations-are-evil
 #+date:       [2023-12-02 Sat 16:02]
 #+favicon: 🔤
 #+filetags:   :blog:programming:prose:writing:
 #+identifier: 20231202T160240
 #+author: Lucian Axel Knock
 ** I HHH acronyms and initialisms.
-What does HHH stand for? Hate, hate, hate. I hate them, and we always have hated them. Unfortunately they are becoming more and more pervasive in our language. I am sorry for this fact, since it indicates the degeneration of our society's mortal soul.
+What does HHH stand for? Hate, hate, hate. I hate them, and I always have hated them. Unfortunately they are becoming more and more pervasive in our language. I am sorry for this fact, since it indicates the degeneration of our society's mortal soul.
 
 You might scoff, but I propose that the normalization of acronyms and initialisms is /sinful/. Not one of the 7, but in the Top Ten at least. Why? Because it forms a fundamental abstraction of all evil in this world: miscommunication.  There is of course "willful" miscommunication (lying), but effectively the distinction between the two deals with subjective moral principles, id est humans instead of information. So not one of the seven, but honestly they probably started with like 14 and had to cut a few for brevity, and it was between acronyms and murder.
 
