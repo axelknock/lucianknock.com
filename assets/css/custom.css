@@ -46,3 +46,6 @@ header {
 .nav-container-blur {
     background-color: rgb(255 255 255 / .75);
 }
+.flex-wrap {
+    flex-wrap: wrap;
+}
