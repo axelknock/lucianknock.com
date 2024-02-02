@@ -1,0 +1,33 @@
+#+title:      AaIaAaE (Acronyms and Initialisms and Abbreviations are Evil)
+#+date:       [2023-12-02 Sat 16:02]
+#+filetags:   :blog:programming:prose:writing:
+#+identifier: 20231202T160240
+#+author: Lucian Axel Knock
+** I HHH acronyms and initialisms.
+What does HHH stand for? Hate, hate, hate. I hate them, and we always have hated them. Unfortunately they are becoming more and more pervasive in our language. I am sorry for this fact, since it indicates the degeneration of our society's mortal soul.
+
+You might scoff, but I propose that the normalization of acronyms and initialisms is /sinful/. Not one of the 7, but in the Top Ten at least. Why? Because it forms a fundamental abstraction of all evil in this world: miscommunication.  There is of course "willful" miscommunication (lying), but effectively the distinction between the two deals with subjective moral principles, id est humans instead of information. So not one of the seven, but honestly they probably started with like 14 and had to cut a few for brevity, and it was between acronyms and murder.
+
+** Miscommunication as an abstraction of evil? WTF!?
+Every single day the cells in your body divide themselves about a zafillian times (this is an estimate), and the vast majority of those divisions go off without a hitch. Pop some champagne, you're gonna live another day. But unfortunately, every 1 gambillian and 1 times, the cells screw up. They add 7 when they should have subtracted 5. Oops.
+
+This produces what you would call a 'baby cancer cell' (technical term). This is mostly fine because baby cancer cells are stupid and almost always immediately choke on their own spittle and die, or an immune cell destroys them for being ugly. But once every tamirillian or so times the baby cancer cell doesn't immediately die and grows up and divides itself. This is bad.
+
+"WTF does cancer have to do with acronyms?" I hear you ask.
+
+1. I'm getting to it,
+2. Stop using abbreviations.
+
+If there is such a thing as Divinity, Deoxy Ribo Nucleic Acid is proof of its existence. The most efficient medium of information compression yet divised, you could fit humankind's entire canon in one handful of the stuff and have room left over for a quadrillion or so silly blog posts.  This is the stuff that cells use to communicate and build more cells. It has four components in its encoding: Adenine, Thymine, Cytocine, and Guanine. They come together to form data that isn't terribly different from what is stored on your computer by 1s and 0s[fn:1].
+
+When cells screw up and cause cancer, it is because they have miscommunicated the genetic sequence. They added a 7 when they should have subtracted a 5. They wrote down thymine when they should have written guanine. As we said before, this is mostly OK because cells have an inborne mechanism of self-/destruction/ whenever they detect faults within themselves.
+
+So what I'm getting at is this: clear communication of encoded information is *good* and unclear/mis-coded information is *bad*. Clear *good*.  Unclear *bad*. This is an analogous situation in which the difference between precise and imprecise communication is the physical distinction between life and death. Sure, it only happens ever (1 gorillian and 1)² times, but it happens. It can be easily avoided by being /clear/ in our communication.
+
+I suppose, as always, I am getting too philisophical. I simply beseech you, dear reader, use[fn:3] communication to its fullest when you don't absolutely have to keep what you're saying short. And when you do absolutely have to keep it short:
+
+tl;dr IhMisCom, JWiO & KiS[fn:2]
+
+[fn:1] While the data itself is not terribly different, the mechanisms surrounding it, such as its encoding, its propagation, and its reading are all indeed terribly different.
+
+[fn:2] Too Long; Did't Read: I hate Mis-Communication, Just Write it Out and Keep it Simple (did the shortened version save your time?) 

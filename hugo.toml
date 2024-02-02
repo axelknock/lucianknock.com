@@ -49,7 +49,6 @@ displayLogo = false
 
 [params]
 favicon = "🫀"
-dateFormat = "<2023-12-04 Mon>"
 displayUpdatedDate = true
 
 [params.blog.list]
