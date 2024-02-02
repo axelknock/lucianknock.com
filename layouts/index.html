@@ -1,0 +1,9 @@
+{{ define "main" }}
+<div class="flex">
+    {{ partial "sidebar.html" (dict "context" . "disableSidebar" true "displayPlaceholder" false) }}
+    <section class="about">
+        <pre class="ascii-picture">{{ partial `myface` . }}</pre>
+        <div class="about__content">{{ .Content }}</div>
+    </section>
+</div>
+{{ end }}

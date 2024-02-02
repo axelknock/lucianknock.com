@@ -1,0 +1,48 @@
+body {
+    display: grid;
+    grid-auto-rows: auto 1fr auto;
+    min-height: 100vh;
+}
+.dark {
+    --primary-hue: 50deg;
+    --primary-saturation: 90%;
+}
+.ascii-picture {
+    line-height: 1;
+    font-size: clamp(1px,1.66vw,0.5rem);
+}
+.content-around {
+    justify-content: space-around;
+}
+.items-center {
+    align-items: center;
+}
+header {
+    position: fixed;
+}
+.test {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    z-index: 10;
+}
+.pr-6 {
+    padding-right: 1.5rem;
+}
+.about__content {
+    margin: 0.5rem;
+}
+.about {
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin: 0 auto;
+    max-width: 1200px;
+}
+#nav-menu {
+    transition: top 0.15s;
+}
+.nav-container-blur {
+    background-color: rgb(255 255 255 / .75);
+}

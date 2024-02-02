@@ -1,0 +1,5 @@
+---
+sidebar:
+  exclude: true
+---
+This website was made using [[https://gohugo.io/][Hugo]] and [[https://imfing.github.io/hextra/docs/][Hextra]].

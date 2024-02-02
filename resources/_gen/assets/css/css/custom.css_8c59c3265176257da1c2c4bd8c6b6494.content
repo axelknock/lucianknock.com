@@ -1,0 +1,8 @@
+.dark {
+    --primary-hue: 50deg;
+    --primary-saturation: 90%;
+}
+.ascii-picture {
+    line-height: 1;
+    font-size: min(7px, calc(5vmin / 3));
+}

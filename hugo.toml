@@ -1,0 +1,63 @@
+baseURL = 'https://lucianknock.com/'
+languageCode = 'en-us'
+title = 'LUCIAN KNOCK'
+theme = 'hextra'
+enableRobotsTXT = true
+enableGitInfo = true
+hasCJKLanguage = true
+defaultContentLanguage = "en"
+enableInlineShortcodes = true
+
+[module.hugoVersion]
+extended = true
+min = "0.120.3"
+
+[[menu.main]]
+  identifier = "STORIES"
+  name = "STORIES"
+  pageRef = "/stories"
+  weight = 2
+
+[[menu.main]]
+  identifier = "BLOG"
+  name = "BLOG"
+  pageRef = "/blog"
+  weight = 3
+
+# [[menu.main]]
+#   identifier = "DEV"
+#   name = "DEV"
+#   pageRef = "/dev"
+#   weight = 4
+
+# [[menu.main]]
+#   identifier = "about"
+#   name = "about"
+#   pageRef = "/about"
+#   weight = 5
+
+[[menu.main]]
+  name = "search"
+  weight = 6
+
+  [menu.main.params]
+  type = "search"
+
+[params.navbar]
+displayTitle = true
+displayLogo = false
+
+[params]
+favicon = "🫀"
+dateFormat = "<2023-12-04 Mon>"
+displayUpdatedDate = true
+
+[params.blog.list]
+displaytags = true
+
+[params.footer]
+displayPoweredBy = false
+displayCopyright = true
+
+[taxonomies]
+filetag = "filetags"
