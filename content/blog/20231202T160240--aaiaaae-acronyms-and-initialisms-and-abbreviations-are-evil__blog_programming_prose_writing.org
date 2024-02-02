@@ -1,5 +1,5 @@
 #+title:      AaIaAaE (Acronyms and Initialisms and Abbreviations are Evil)
-#+slug: acronyms-and-initialisms-and-abbreviations-are-evil
+#+slug: acronyms
 #+date:       [2023-12-02 Sat 16:02]
 #+favicon: 🔤
 #+filetags:   :blog:programming:prose:writing:
