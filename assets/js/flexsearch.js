@@ -154,7 +154,7 @@ document.addEventListener("DOMContentLoaded", function () {
           activeResult.click();
         }
         umami.track('Search',
-            { query: activeResult }
+            { name: activeResult }
         );
         finishSearch();
       case 'Escape':
