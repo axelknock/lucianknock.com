@@ -153,9 +153,8 @@ document.addEventListener("DOMContentLoaded", function () {
         if (activeResult) {
           activeResult.click();
         }
-        umami.track('Search',
-            { name: activeResult }
-        );
+        console.log(activeResult);
+        umami.track('search', { name: activeResult });
         finishSearch();
       case 'Escape':
         e.preventDefault();
