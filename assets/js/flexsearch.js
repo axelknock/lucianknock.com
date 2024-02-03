@@ -120,6 +120,7 @@ document.addEventListener("DOMContentLoaded", function () {
   function finishSearch() {
     const { inputElement } = getActiveSearchElement();
     if (!inputElement) return;
+    umami.track('search');
     hideSearchResults();
     inputElement.value = '';
     inputElement.blur();
@@ -153,8 +154,6 @@ document.addEventListener("DOMContentLoaded", function () {
         if (activeResult) {
           activeResult.click();
         }
-        console.log(String(activeResult));
-        umami.track('search', { name: activeResult });
         finishSearch();
       case 'Escape':
         e.preventDefault();
