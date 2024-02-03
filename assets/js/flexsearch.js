@@ -151,7 +151,7 @@ document.addEventListener("DOMContentLoaded", function () {
       case 'Enter':
         e.preventDefault();
         if (activeResult) {
-          umami.track('search');
+          umami.track('search', { name: inputElement.value });
           activeResult.click();
         }
         finishSearch();
