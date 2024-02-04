@@ -34,10 +34,12 @@
      const setDarkTheme = () => {
          document.documentElement.classList.add("dark");
          document.documentElement.style.colorScheme = "dark";
+         umami.track("theme-switch", { name: "dark" });
      }
      const setLightTheme = () => {
          document.documentElement.classList.remove("dark");
          document.documentElement.style.colorScheme = "light";
+         umami.track("theme-switch", { name: "light" });
      }
 
      if ("color-theme" in localStorage) {
