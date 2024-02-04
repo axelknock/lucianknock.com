@@ -1,0 +1,11 @@
+{{ define "main" }}
+<div class="flex">
+    {{ partial "sidebar.html" (dict "context" . "disableSidebar" true "displayPlaceholder" false) }}
+    <section class="grid place-content-center w-full">
+        <p>This path does not exist.</p>
+        <p>
+            <a class="text-[color:hsl(var(--primary-hue),100%,50%)] underline underline-offset-2 decoration-from-font" href="/">Return to homepage.</a>
+        </p>
+    </section>
+</div>
+{{ end }}
