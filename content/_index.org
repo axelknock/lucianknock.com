@@ -4,6 +4,7 @@ date: 2024-01-28T13:01:44-05:00
 draft: false
 sidebar:
   exclude: true
+description: "Lucian Knock's personal website."
 ---
 
 I write (code).
