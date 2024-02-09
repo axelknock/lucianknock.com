@@ -1,0 +1,15 @@
+#+title:      A True Account of the Future
+#+date:       [2024-02-08 Thu 21:11]
+#+filetags:   :artificialintelligence:complete:scifi:scrap:story:
+#+identifier: 20240208T211142
+It came as a great shock when the first human mind was put inside a computer. Not because the thing had been done, for it had been a long time coming, but because of how easy it had been. Like a large branch giving way under minuscule pressure, with a shocking crack.
+
+The shock was short-lived, for though the mind had gotten into the computer, it was clear that something had been lost along the way.
+
+The researchers noticed it immediately. Left to its own devices, the machine mind did nothing they could not predict. It could only respond to external stimuli, and besides that only "think" of things the researchers talked to it about. What communication was gotten from it resembled nothing more than an advanced language model, its desperate assertions of its own humanity falling on deaf ears.
+
+They held a formal funeral for the test subject and went back to the design phase. Suddenly those who had said the experiment would fail reigned supreme on the discourse.
+
+A human is more than its ability to speak. Its humanity is derived from its basic need for sustenance, water, oxygen. It is derived from its bodily functions, lust, expulsion of waste, every discomfort it experiences on a daily basis, every itch, every cough. To simulate just the thinking part of it was no better than animating a severed hand. To truly capture a mind requires every part of a human's nervous system, and perhaps even more.
+
+This served as a depressing realization for the researchers, who thought they were at the finish line, only to see they were but a tenth of the way there, and only their grandchildren might see a human mind truly living in a computer.
