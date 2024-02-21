@@ -4,6 +4,8 @@ date       = 2024-02-19T08:42:01-05:00
 tags       = ["public", "work", "writing", "organization", "goals"]
 identifier = "20240219T084201"
 slug       = "speaking-aloud"
+favicon    = "🗣️"
+images     = ['images/speaker.webp']
 +++
 
 I have recently read almost every blog post by Michael Lynch (https://mtlynch.io) and some posts by Cory Zue (https://coryzue.com/).

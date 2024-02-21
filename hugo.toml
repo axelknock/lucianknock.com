@@ -57,6 +57,10 @@ displayLogo = false
 favicon = "🫀"
 displayUpdatedDate = true
 
+[params.social]
+twitter = 'LucianKnock'
+
+
 [params.blog.list]
 displaytags = true
 
