@@ -24,11 +24,13 @@ min = "0.120.3"
   pageRef = "/blog"
   weight = 3
 
+# [[menu.main]]
+#   identifier = "RETROSPECTIVES"
+#   name = "RETROSPECTIVES"
+#   pageRef = "/retrospectives"
+#   weight = 4
+
 [[menu.main]]
-  identifier = "RETROSPECTIVES"
-  name = "RETROSPECTIVES"
-  pageRef = "/retrospectives"
-  weight = 4
 
 # [[menu.main]]
 #   identifier = "DEV"
