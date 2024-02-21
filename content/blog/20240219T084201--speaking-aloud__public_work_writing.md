@@ -42,7 +42,7 @@ I have to set goals in order to achieve them, and so my basic plan is to set mon
  - Weekly goals on Mondays, and do retrospectives on Fridays, leaving zero cognitive load to be carried over the weekend.
  - Monthly goals on the 1st of each month, and retrospect on the last day of each month.
 
-Both will be published in [retrospectives](/retrospectives). For now they will mostly pertain to my personal projects. I plan to put the goals there at the beginning of the week, and then fill it out at the end. Ditto with the monthly goals.
+Both will be published in [retrospectives](# "Nothing there yet"). For now they will mostly pertain to my personal projects. I plan to put the goals there at the beginning of the week, and then fill it out at the end. Ditto with the monthly goals.
 
 Another pattern both Lynch and Zue employ is scoring their achievements with letter grades, which I will also do.
 
