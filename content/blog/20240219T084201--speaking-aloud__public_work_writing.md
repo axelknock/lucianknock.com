@@ -56,10 +56,8 @@ Choosing priorities will be part of the process, but I have almost no say in wha
 
 The third reason stated is merely hypothetical, as I know for a fact that nobody (except perhaps my mother) will read this in the near future, but I am optimistic that it will gain at least one reader in the future[^3].
 
-[//]: # (
 If you have any questions or comments, post them on X:
-{{/* {{< twitter user="LucianKnock" id="" >}} */}}
-)
+{{< twitter user="LucianKnock" id="1760121769711526278" >}}
 
 [^1]: This is both for personal motivation and I think it would benefit me professionally if I kept a record of my achievements. It would make it infinitely easier to condense the value which I provide in any organization, and to present that to potential employers.
 
