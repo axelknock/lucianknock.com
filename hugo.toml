@@ -24,13 +24,17 @@ min = "0.120.3"
   pageRef = "/blog"
   weight = 3
 
-# [[menu.main]]
-#   identifier = "RETROSPECTIVES"
-#   name = "RETROSPECTIVES"
-#   pageRef = "/retrospectives"
-#   weight = 4
-
 [[menu.main]]
+  identifier = "RETROSPECTIVES"
+  name = "RETROSPECTIVES"
+  pageRef = "/retrospectives"
+  weight = 4
+
+# [[menu.main]]
+#   identifier = "CONTACT"
+#   name = "CONTACT"
+#   pageRef = "/contact"
+#   weight = 5
 
 # [[menu.main]]
 #   identifier = "DEV"
@@ -69,6 +73,3 @@ displaytags = true
 [params.footer]
 displayPoweredBy = false
 displayCopyright = true
-
-[taxonomies]
-filetag = "filetags"
