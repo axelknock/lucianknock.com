@@ -39,7 +39,7 @@ While settings goals, there has to be at least one thing which I am looking forw
 
 I have to set goals in order to achieve them, and so my basic plan is to set monthly and weekly goals.
 
- - Weekly goals on Mondays, and do retrospectives on Fridays, leaving zero cognitive load to be carried over the weekend.
+ - Weekly goals on Mondays, and do retrospectives on ~~Fridays~~ Saturdays, leaving zero cognitive load to be carried ~~over the weekend~~ on the day of rest.
  - Monthly goals on the 1st of each month, and retrospect on the last day of each month.
 
 Both will be published in [retrospectives](/retrospectives). For now they will mostly pertain to my personal projects. I plan to put the goals there at the beginning of the week, and then fill it out at the end. Ditto with the monthly goals.
