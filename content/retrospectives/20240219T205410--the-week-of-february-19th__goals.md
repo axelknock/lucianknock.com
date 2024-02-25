@@ -8,12 +8,12 @@ summary = "This week is not over yet, so this entry is incomplete."
 
 ## Goals
 | #       | Goal                                                                                                                                                                                      | Grade |
-|:--------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------:|
-| [1](#1) | Learn 5 yoga moves                                                                                                                                                                        | A      |
-| [2](#2) | Add a [cloudflare binding](https://developers.cloudflare.com/pages/framework-guides/deploy-a-remix-site/#create-and-add-a-binding-to-your-remix-application) to *unnamed hiring platform* | F      |
-| [3](#3) | Publish [Speaking Aloud](/blog/speaking-aloud) and [Retrospectives](/retrospectives)                                                                                                      | A      |
-| [4](#4) | Experiment with time tracking                                                                                                                                                             | A+      |
-| [5](#5) | Collate bills                                                                                                                                                                             | A+      |
+|:--------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------|
+| [1](#1) | Learn 5 yoga moves                                                                                                                                                                        |     A |
+| [2](#2) | Add a [cloudflare binding](https://developers.cloudflare.com/pages/framework-guides/deploy-a-remix-site/#create-and-add-a-binding-to-your-remix-application) to *unnamed hiring platform* |     F |
+| [3](#3) | Publish [Speaking Aloud](/blog/speaking-aloud) and [Retrospectives](/retrospectives)                                                                                                      |     A |
+| [4](#4) | Experiment with time tracking                                                                                                                                                             |    A+ |
+| [5](#5) | Collate bills                                                                                                                                                                             |    A+ |
 
 As I said in my [monthly retrospective](/retrospectives/february-2024), I have a late start at things, so I have some learning and getting-into-grooving ahead of me.
 
