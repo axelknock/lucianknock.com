@@ -3,7 +3,7 @@ title =       "The Week of February 19th"
 date =        2024-02-19T20:54:10-05:00
 identifier =  "20240219T205410"
 slug =        "the-week-of-february-19th"
-summary = "This week is not over yet, so this entry is incomplete."
+summary = "My first attempt at retrospecting. I set out some goals and (mostly) completed them."
 +++
 
 ## Goals
