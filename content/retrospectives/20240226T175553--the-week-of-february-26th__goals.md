@@ -11,6 +11,6 @@ summary    = "This week is not over yet, so this entry is incomplete."
 |:--|:--------------------------------------------------------------------------------------------------------------------------|:------|
 | 1 | Write an [email worker](https://developers.cloudflare.com/email-routing/email-workers/) to parse bank transaction emails. |       |
 | 2 | Do 2 hours of yoga                                                                                                        |       |
-| 3 | Write a blog post about my homeserver                                                                                     |       |
+| 3 | Write something                                                                                                           |       |
 | 4 | Get someone to reply to me on Twitter                                                                                     |       |
 
