@@ -51,7 +51,6 @@ document.addEventListener('DOMContentLoaded', function () {
   // Overlay wasn't working correctly because of z-index issues; here's a 'hack'
   menuLinks.forEach(link => {
     link.addEventListener('click', (e) => {
-      console.log(link.href);
       if (link.pathname == location.pathname) {
         toggleMenu();
       }
