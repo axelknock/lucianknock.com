@@ -6,6 +6,7 @@
 #+tags:    prose writing 
 #+identifier: 20231202T160240
 #+author: Lucian Axel Knock
+#+images[]: images/abc.png
 ** I HHH acronyms and initialisms.
 What does HHH stand for? Hate, hate, hate. I hate them, and I always have hated them. Unfortunately they are becoming more and more pervasive in our language. I am sorry for this fact, since it indicates the degeneration of our society's mortal soul.
 
