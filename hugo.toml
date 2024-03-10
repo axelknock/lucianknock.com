@@ -62,6 +62,7 @@ displayLogo = false
 [params]
 favicon = "🫀"
 displayUpdatedDate = true
+images = ["images/face.png"]
 
 [params.social]
 twitter = 'LucianKnock'
