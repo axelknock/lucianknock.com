@@ -1,1 +1,4 @@
 Lucian Knock's personal website, built on [[https://gohugo.io/][Hugo]], [[https://themes.gohugo.io/themes/hextra/][Hextra]], and [[https://orgmode.org/][Org]].
+
+Notes for reference:
+ - I've found [[https://www.svgrepo.com/][SVGRepo]] which should help with high quality [[https://ogp.me/][OpenGraph]] images
