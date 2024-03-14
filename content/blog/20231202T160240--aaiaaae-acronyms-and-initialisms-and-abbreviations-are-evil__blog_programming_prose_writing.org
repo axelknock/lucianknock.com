@@ -3,7 +3,7 @@
 #+date:       [2023-12-02 Sat 16:02]
 #+favicon: 🔤
 #+filetags:   :blog:programming:prose:writing:
-#+tags:    prose writing 
+#+tags[]:    prose writing 
 #+identifier: 20231202T160240
 #+author: Lucian Axel Knock
 #+images[]: images/abc.png
