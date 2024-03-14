@@ -1,7 +1,6 @@
 +++
 title      = "The Week of February 26th"
 date       = 2024-02-26T17:55:53-05:00
-tags       = ["goals"]
 identifier = "20240226T175553"
 slug       = "the-week-of-february-26th"
 summary    = "This week I got almost nothing done I set out to do, but I learned the lesson."

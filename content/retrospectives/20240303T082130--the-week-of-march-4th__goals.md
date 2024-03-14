@@ -1,7 +1,6 @@
 +++
 title      = "The Week of March 4th"
 date       = 2024-03-04T17:55:53-05:00
-tags       = ["goals"]
 identifier = "20240226T175553"
 slug       = "the-week-of-march-4th"
 summary    = "I did some competitive analysis and I like my chances. I also learned a lick of Latin."
