@@ -55,3 +55,12 @@ header {
 .place-content-center {
     place-content: center;
 }
+.book-title {
+    font-style: italic;
+}
+.author-name {
+    font-weight: 800;
+}
+.book-list {
+    margin-top: 0;
+}

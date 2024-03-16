@@ -30,6 +30,12 @@ min = "0.120.3"
   pageRef = "/retrospectives"
   weight = 4
 
+[[menu.main]]
+  identifier = "BOOKSHELF"
+  name = "BOOKSHELF"
+  pageRef = "/bookshelf"
+  weight = 5
+  
 # [[menu.main]]
 #   identifier = "CONTACT"
 #   name = "CONTACT"
@@ -55,18 +61,22 @@ min = "0.120.3"
   [menu.main.params]
   type = "search"
 
-[params.navbar]
-displayTitle = true
-displayLogo = false
+[taxonomies]
+author = 'authors'
+year = 'years'
+genre = 'genres'
 
 [params]
 favicon = "🫀"
 displayUpdatedDate = true
 images = ["images/face.png"]
 
+[params.navbar]
+displayTitle = true
+displayLogo = false
+
 [params.social]
 twitter = 'LucianKnock'
-
 
 [params.blog.list]
 displaytags = true
@@ -74,3 +84,17 @@ displaytags = true
 [params.footer]
 displayPoweredBy = false
 displayCopyright = true
+
+[params.page]
+width = 'normal'
+
+# [[menu.sidebar]]
+# name = "More"
+# weight = 1
+# [menu.sidebar.params]
+# type = "separator"
+
+# [[menu.sidebar]]
+# name = "About"
+# pageRef = "/about"
+# weight = 2

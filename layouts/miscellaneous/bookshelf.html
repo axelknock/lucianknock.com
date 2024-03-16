@@ -1,0 +1,65 @@
+{{ define "main" }}
+{{ $entries := dict }}
+
+{{/* Populate $entries with authors as keys (sort-friendly) and their books as values */}}
+{{ range $.Site.Data.MyLibrary.items }}
+{{ $creator := index .creators 0 }}
+{{/* Determine sort-friendly key: LastName + FirstName */}}
+{{ $sortKey := printf "%s, %s" $creator.lastName $creator.firstName }}
+
+{{/* Determine display name */}}
+{{ $displayName := "" }}
+{{ if $creator.name }}
+{{ $displayName = $creator.name }}
+{{ else }}
+{{ $displayName = printf "%s %s" $creator.firstName $creator.lastName }}
+{{ end }}
+
+{{/* Select the preferred title */}}
+{{ $title := or .shortTitle .title }}
+
+{{/* Get the tags */}}
+{{ $tags := .tags }}
+
+{{/* Check whether the author already exists in $entries */}}
+{{ if isset $entries $sortKey }}
+{{/* Existing author: Append the current book to their list */}}
+{{ $currentBooks := index $entries $sortKey }}
+{{ $updatedBooks := $currentBooks | append (dict "title" $title "tags" $tags) }}
+{{ $entries = merge $entries (dict $sortKey $updatedBooks) }}
+{{ else }}
+{{/* New author: Initialize with current book */}}
+{{ $entries = merge $entries (dict $sortKey (slice (dict "title" $title "displayName" $displayName "tags" $tags))) }}
+{{ end }}
+{{ end }}
+
+{{/* Display the data, sorted by the sortKey (which includes LastName for sorting) */}}
+<div class="mx-auto flex {{ partial `utils/page-width` . }}">
+  <main class="w-full min-w-0 max-w-6xl px-3 pt-4 md:px-12">
+    <h1 class="mt-2 text-4xl font-bold tracking-tight text-slate-900 dark:text-slate-100">{{ .Title }}</h1>
+    <div class="content">
+      {{ .Content }}
+      <ul>
+        {{ range $sortKey, $books := $entries | sort }}
+        <li class="author-entry" style="list-style:none">
+          <span class="author-name">{{ (index $books 0).displayName }}</span>
+          <ul class="book-list">
+            {{ range $books }}
+            <li style="list-style:none">
+              <div class="book-title">{{ .title }}</div>
+              <div>
+                {{ range .tags }}
+                #{{ .tag }}
+                {{ end }}
+              </div>
+            </li>
+            {{ end }}
+          </ul>
+        </li>
+        {{ end }}
+      </ul>
+    </div>
+    {{ partial "components/last-updated.html" . }}
+  </main>
+</div>
+{{ end }}
