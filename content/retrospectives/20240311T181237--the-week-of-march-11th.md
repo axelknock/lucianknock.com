@@ -2,6 +2,7 @@
 title      = "The Week of March 11th"
 date       = 2024-03-11T18:12:37-04:00
 identifier = "20240311T181237"
+slug       = "the-week-of-march-11th"
 summary    = "This week is not yet over, so this entry is incomplete."
 +++
 

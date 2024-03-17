@@ -1,7 +1,7 @@
 #+title:      A TRUE ACCOUNT OF THE FUTURE
 #+date:       [2024-02-08 Thu 21:11]
 #+filetags:   :artificialintelligence:complete:scifi:scrap:story:
-#+favicon: 🗣️
+#+slug: "a-true-account-of-the-future"
 #+identifier: 20240208T211142
 It came as a great shock when the first human mind was put inside a computer. Not because the thing had been done, for it had been a long time coming, but because of how easy it had been. Like a large branch giving way under minuscule pressure, with a shocking crack.
 

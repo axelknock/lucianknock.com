@@ -1,7 +1,7 @@
 +++
 title      = "Speaking Aloud"
 date       = 2024-02-19T08:42:01-05:00
-tags       = ["public", "work", "writing", "organization", "goals"]
+tags       = ["writing", "organization", "goals"]
 identifier = "20240219T084201"
 slug       = "speaking-aloud"
 favicon    = "🗣️"

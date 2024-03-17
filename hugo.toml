@@ -61,11 +61,6 @@ min = "0.120.3"
   [menu.main.params]
   type = "search"
 
-[taxonomies]
-author = 'authors'
-year = 'years'
-genre = 'genres'
-
 [params]
 favicon = "🫀"
 displayUpdatedDate = true
@@ -98,3 +93,6 @@ width = 'normal'
 # name = "About"
 # pageRef = "/about"
 # weight = 2
+
+[taxonomies]
+  tag = 'tags'
