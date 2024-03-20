@@ -9,7 +9,7 @@ summary    = "This week is not yet over, so this entry is incomplete."
 ## Goals
 | # | Goal                                                    | Grade |
 |:--|:--------------------------------------------------------|:------|
-| 1 | Write a `join-indirect-buffers function`                |       |
+| 1 | Write a `join-indirect-buffers` function                |       |
 | 2 | Time everything consistently                            |       |
 | 3 | Go to game night                                        |       |
 | 4 | Write something not a retrospective (and worth sharing) |       |
