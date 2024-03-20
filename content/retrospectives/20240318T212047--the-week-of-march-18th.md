@@ -1,5 +1,6 @@
 +++
 title      = "The Week of March 18th"
+slug       = "the-week-of-march-18th"
 date       = 2024-03-18T21:20:47-04:00
 tags       = []
 identifier = "20240318T212047"
