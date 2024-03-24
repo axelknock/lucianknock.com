@@ -64,3 +64,9 @@ header {
 .book-list {
     margin-top: 0;
 }
+.code-block {
+    max-width: min(calc(100vw - 1.5rem), 70rem);
+}
+.code-block .cl {
+    padding-right: 1rem;
+}
