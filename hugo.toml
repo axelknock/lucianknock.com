@@ -96,3 +96,9 @@ width = 'normal'
 
 [taxonomies]
   tag = 'tags'
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[markup.highlight]
+  noClasses = false
