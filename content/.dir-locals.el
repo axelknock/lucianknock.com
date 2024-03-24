@@ -3,5 +3,5 @@
 ;;;     (info "(emacs) Directory Variables")
 
 ((nil . ((denote-directory . "/home/lucian/Nextcloud/H/hugo/lucianknock.com/content/")
-         (denote-prompts . (subdirectory title keywords))
+         (denote-prompts . (subdirectory file-type title keywords))
          (denote-file-type . markdown-toml))))
