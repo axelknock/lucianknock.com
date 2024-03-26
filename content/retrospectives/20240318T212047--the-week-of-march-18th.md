@@ -10,11 +10,11 @@ summary    = "Went to game night, thought of elisp, and technically wrote someth
 ## Goals
 | #                                                          | Goal                                                    | Grade |
 |:-----------------------------------------------------------|:--------------------------------------------------------|:------|
-| [1](write-a-join-indirect-buffers-function)                | Write a `join-indirect-buffers` function                | D     |
-| [2](time-everything-consistently)                          | Time everything consistently                            | A     |
-| [3](go-to-game-night)                                      | Go to game night                                        | A     |
-| [4](write-something-not-a-retrospective-and-worth-sharing) | Write something not a retrospective (and worth sharing) | B     |
-| [5](add-tags-pagination-to-my-website)                     | Add tags/pagination to my website                       | F     |
+| [1](#write-a-join-indirect-buffers-function)                | Write a `join-indirect-buffers` function                | D     |
+| [2](#time-everything-consistently)                          | Time everything consistently                            | A     |
+| [3](#go-to-game-night)                                      | Go to game night                                        | A     |
+| [4](#write-something-not-a-retrospective-and-worth-sharing) | Write something not a retrospective (and worth sharing) | B     |
+| [5](#add-tags-pagination-to-my-website)                     | Add tags/pagination to my website                       | F     |
 
 ## Notes
 ### Write a `join-indirect-buffers` function
