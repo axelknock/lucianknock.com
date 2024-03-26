@@ -1,5 +1,16 @@
 {
-  "projectBaseUrl":"${workspaceFolder}",
+  "projectBaseUrl":"https://lucianknock.com",
+  "ignorePatterns": [
+    {
+      "pattern": "^http://example.net"
+    }
+  ],
+  "replacementPatterns": [
+    {
+      "pattern": "^/",
+      "replacement": "{{BASEURL}}/"
+    }
+  ],
   "httpHeaders": [
     {
       "urls": ["https://github.com/", "https://guides.github.com/", "https://help.github.com/", "https://docs.github.com/"],
