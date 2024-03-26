@@ -30,6 +30,6 @@ The week before this one I recorded 51h34m. This week I measured 60h30m. Measuri
 ### Go to game night
 I did indeed go to game night, but this goal made me realize that I should not set Pass/Fail goals. They do not leave enough room to manuever, or try something new. At least I went, and I had fun, having found a very interesting game called [Illusion](https://pandasaurusgames.com/products/illusion)
 ### Write something not a retrospective (and worth sharing)
-Since I anticipate writing about it more in the future, I took the time to prepare my [Emacs configuration](https://github.com/axelknock/.emacs.d) for sharing. Then I wrote a blog post about [how to use my Emacs configuration](https://lucianknock.com/blog/my-emacs-configuration/).
+Since I anticipate writing about it more in the future, I took the time to prepare my [Emacs configuration](https://github.com/axelknock/.emacs.d) for sharing. Then I wrote a blog post about [how to use my Emacs configuration](/blog/my-emacs-configuration/).
 ### Add tags/pagination to my website
 Did not manage this.
