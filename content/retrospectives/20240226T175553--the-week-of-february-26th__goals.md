@@ -8,7 +8,7 @@ summary    = "This week I got almost nothing done I set out to do, but I learned
 ## Goals
 | #                                               | Goal                                                                                                                      | Grade |
 |:------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------|:------|
-| [1](write-an-email-worker-to-parse-bank-transaction-emails) | Write an [email worker](https://developers.cloudflare.com/email-routing/email-workers/) to parse bank transaction emails. | F     |
+| [1](#write-an-email-worker-to-parse-bank-transaction-emails) | Write an [email worker](https://developers.cloudflare.com/email-routing/email-workers/) to parse bank transaction emails. | F     |
 | [2](#do-2-hours-of-yoga)                        | Do 2 hours of yoga                                                                                                        | D     |
 | [3](#write-something)                           | Write something                                                                                                           | D     |
 | [4](#get-someone-to-reply-to-me-on-twitter)     | Get someone to reply to me on Twitter                                                                                     | A     |
