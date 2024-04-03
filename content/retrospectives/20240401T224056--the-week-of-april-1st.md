@@ -3,6 +3,8 @@ title      = "The Week of April 1st"
 date       = 2024-04-01T22:40:56-04:00
 tags       = []
 identifier = "20240401T224056"
+slug       = "the-week-of-april-1st"
+summary    = "This week is not yet over, so this entry is incomplete."
 +++
 
 ## Goals
