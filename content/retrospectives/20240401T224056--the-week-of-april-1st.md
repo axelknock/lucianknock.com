@@ -4,7 +4,7 @@ date       = 2024-04-01T22:40:56-04:00
 tags       = []
 identifier = "20240401T224056"
 slug       = "the-week-of-april-1st"
-summary    = "This week is not yet over, so this entry is incomplete."
+summary    = "I budgeted my time, completed my taxes, and worked on an open source self-hosted LLM interface."
 +++
 
 ## Goals
