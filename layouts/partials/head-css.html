@@ -1,11 +1,12 @@
 {{ if .Site.IsServer }}
 {{- $custom := resources.Get "css/custom.css" -}}
-{{- $tailwind := resources.Get "css/main.css" | resources.PostCSS -}}
+{{- $tailwind := resources.Get "css/hextra.css" | resources.PostCSS -}}
 <link rel="stylesheet" href="{{ $tailwind.RelPermalink }}">
 <link rel="stylesheet" href="{{ $custom.RelPermalink }}" />
 {{ else }}
-{{- $custom = $custom | minify | fingerprint }}
+{{- $custom := resources.Get "css/custom.css" -}}
+{{- $custom := $custom | minify | fingerprint }}
 <link href="{{ $custom.RelPermalink }}" rel="stylesheet" integrity="{{ $custom.Data.Integrity }}" />
-{{ $tailwind := resources.Get "css/main.css" | resources.PostCSS | resources.Minify }}
+{{ $tailwind := resources.Get "css/hextra.css" | resources.PostCSS | resources.Minify }}
 <link rel="stylesheet" href="{{ $tailwind.RelPermalink }}">
 {{ end }}
